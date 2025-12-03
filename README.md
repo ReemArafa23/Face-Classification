@@ -6,13 +6,16 @@ The project includes a notebook for training/testing and a small sample dataset 
 ## Repository Structure
 
 Five_Faces/
-├── gates/
-├── jack/
-├── modi/
-├── musk/
-└── trump/
+- gates/
+- jack/
+- modi/
+- musk/
+- trump/
+
 Face_classification.ipynb
+
 face_recognition_mobilenetv2.h5
+
 README.md
 
 
